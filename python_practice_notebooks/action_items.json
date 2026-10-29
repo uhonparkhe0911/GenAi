@@ -1,0 +1,64 @@
+{
+  "task_owner_list": [
+    {
+      "task": "Add coverage for invalid passwords and expired sessions",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Provide update on duplicate transfer defect by 31 October 2026",
+      "owner": "Amit Verma"
+    },
+    {
+      "task": "Add new test cases for invalid start and end dates",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Coordinate additional integration testing for OTP service",
+      "owner": "Neha Kapoor"
+    },
+    {
+      "task": "Evaluate whether notification scenarios can be automated",
+      "owner": "Vikram Singh"
+    },
+    {
+      "task": "Investigate payment gateway environment instability by 1 November 2026",
+      "owner": "Neha Kapoor"
+    },
+    {
+      "task": "Reduce regression execution time to two hours",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Identify redundant test cases and prepare regression optimization proposal by 3 November 2026",
+      "owner": "Vikram Singh"
+    },
+    {
+      "task": "Review test case duplication before approving removal",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Review automation scripts before next regression execution",
+      "owner": "Vikram Singh"
+    },
+    {
+      "task": "Provide updated test execution reports for every module",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Provide estimated resolution dates for all open critical defects",
+      "owner": "Amit Verma"
+    },
+    {
+      "task": "Confirm final scope of upcoming release by 2 November 2026",
+      "owner": "Rahul Mehta"
+    },
+    {
+      "task": "Complete test case review by 2 November 2026",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Schedule follow-up meeting to review progress and outstanding issues",
+      "owner": "Priya Sharma"
+    }
+  ]
+}

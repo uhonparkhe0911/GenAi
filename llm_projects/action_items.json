@@ -1,0 +1,20 @@
+{
+  "task_owner_list": [
+    {
+      "task": "Provide a defect update by 31 October 2026",
+      "owner": "Amit Verma"
+    },
+    {
+      "task": "Add test cases for invalid account statement date ranges",
+      "owner": "Priya Sharma"
+    },
+    {
+      "task": "Coordinate OTP integration testing and investigate payment gateway instability by 1 November 2026",
+      "owner": "Neha Kapoor"
+    },
+    {
+      "task": "Evaluate push notification automation",
+      "owner": "Vikram Singh"
+    }
+  ]
+}

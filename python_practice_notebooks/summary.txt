@@ -1,0 +1,4 @@
+- **Test coverage**: 250 mobile‑banking test cases (180 automated, 70 manual); login, fund transfer, account statement, profile, and notification modules each have dedicated test sets, with gaps identified for locked‑account logins, invalid passwords, expired sessions, and date‑range validation.  
+- **Critical defect**: Duplicate fund transfers (Severity 1) blocking all transfer tests until a fix is released.  
+- **Regression suite**: Currently ~4 h; goal to cut to 2 h by pruning redundant cases while keeping all P1 (critical) scenarios.  
+- **Reporting & priorities**: Test cases will be split into P1/P2/P3; QA will provide detailed execution reports (screenshots, logs) and developers must estimate resolution dates for open critical defects.

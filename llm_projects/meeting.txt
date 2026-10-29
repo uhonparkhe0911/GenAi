@@ -1,0 +1,18 @@
+**Test Case Discussion Meeting – Mobile Banking Application**  
+Date: 29 October 2026  
+Attendees: QA Lead, Test Engineers, Developers, Product Owner
+
+1. The application has 250 test cases, of which 180 are automated and 70 are manual.
+2. Priya Sharma identified missing login test cases for locked accounts, invalid passwords, and expired sessions.
+3. Fund transfer is a P1 priority. Amit Verma reported a critical duplicate transfer defect that could cause financial loss.
+4. Amit Verma will provide a defect update by 31 October 2026.
+5. Priya Sharma will add test cases for invalid account statement date ranges.
+6. Neha Kapoor will coordinate OTP integration testing and investigate payment gateway instability by 1 November 2026.
+7. Vikram Singh will evaluate push notification automation.
+8. The regression suite currently takes four hours. The team aims to reduce execution time to two hours.
+9. Vikram Singh will submit a regression optimization proposal by 3 November 2026.
+10. Test cases will be categorized into P1, P2, and P3 priorities without removing critical business scenarios.
+11. Priya Sharma will complete the test case review by 2 November 2026 and schedule a follow-up meeting.
+12. Rahul Mehta will confirm the release scope by 2 November 2026.
+13. Amit Verma will provide resolution estimates for all open critical defects.
+14. The QA team will maintain updated execution reports, including logs and screenshots for failed tests.
